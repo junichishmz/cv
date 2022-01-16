@@ -4,43 +4,32 @@ title: Junichi Shimizu - Resume
 ---
 # Junichi Shimizu
 
-Interaction Researcher/Sound Artist exploring technology for making creative modality of self-expression.
+Interaction Researcher. Designing Interactive/Generative Music Experience.
 
 <div id="webaddress">
-<script type="text/javascript">
-//<![CDATA[
-<!--
-var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
-"x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
-" r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!08{)rt{y+xx=l;=+;" +
-"lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
-"\"(4),9\\\"\\\\}ubwwhh)0z& 5lR)20\\\\0P\\\\WIy[GYEW_]7W01\\\\\\\\22\\\\0s\\" +
-"\\DBFMtO\\\\\\\\SG06\\\\0N\\\\JGBN02\\\\0C\\\\x#opms58`Jvpe<by` gyIkwiugom;" +
-"gno\\\\\\\\21\\\\05\\\\02\\\\\\\\32\\\\07\\\\02\\\\\\\\$[0J02\\\\\\\\20\\\\" +
-"06\\\\00\\\\\\\\33\\\\0R\\\\20\\\\0L\\\\FM03\\\\00\\\\00\\\\\\\\16\\\\06\\\\"+
-"03\\\\\\\\00\\\\02\\\\03\\\\\\\\20\\\\0H\\\\21\\\\0n\\\\\\\\\\\\06\\\\07\\\\"+
-"01\\\\\\\\24\\\\03\\\\00\\\\\\\\:0\\\"\\\\f(;} ornture;}))++(y)^(iAtdeCoarc" +
-"hx.e(odrChamCro.fngriSt+=;o27=1y%2;*=)yy)4+(9i>f({i+)i+l;i<0;i=r(foh;gten.l" +
-"=x,l\\\"\\\\\\\"\\\\o=i,r va){,y(x fontincfu)\\\"\")"                        ;
-while(x=eval(x));
-//-->
-//]]> </script>
-
 | <a href="https://junichishmz.com/">Web Site</a>
-| <a href="mailto:Junichi.Shimizu@sony.com">Junichi.Shimizu@sony.com</a>
-| <a href="https://www.linkedin.com/in/junichishmz/">LinkedIn</a>
-| <a href="https://soundcloud.com/imish-music">soundcloud</a>
-| <a href="https://www.instagram.com/imish_music/">Instagram</a>
+| <a href="https://www.linkedin.com/in/junichishmz/">LinkdIn</a>
 </div>
 
-<!-- notable accomplishments - ie. projects completed
 
-link.opentargets.io
-library-beam
-www.targetvalidation.org
-pnas paper
-microbiome analysis for finch/seres
- -->
+## WORK
+
+`2017 - now`
+Interaction Research at [SONY Group](https://www.sony.com/en/SonyInfo/research/research-areas/human_interaction/) (Human Interaction Team)
+
+`2021 - now`
+User Interface Developer at Sony CSL Music Team
+
+
+### Research theme
+
+Gesture recognition development (5 years)
+- Developing Headphone Gesture Interface
+
+Sound / Music interaction design (3 years)
+
+Material/Physical Interaction research group(3 years)
+
 
 ### Experienced in
 
@@ -66,17 +55,14 @@ Clinical medicine - anesthesia, genetics, general medicine
 
 ### Computing
 
-Python - pytorch, DGL, DGL-KE, numpy, vega-lite, seaborne, pandas, lxml, spacy, requests.  
-Cloud ops - Docker, Kubernetes, Google Cloud, Azure cloud  
-R - reporting packages; ggplot2, knitr, shiny.  
-Web development - minimal knowledge of react, JSX, MDX, dc.js
-Linux - Git, bash/zsh, sge/torque/pbs schedulers
-SQL - postgresql, sqlite3, clickhouse
-NoSQL - elasticsearch
+Programming Languages - Python, Javascript, C#, C++, Kotlin, Swift etc.
 
-Product & engineer manager in an agile team.
+Sound/Music - Pure Data, Max/MSP, Ableton Live etc.
 
-Contributor to open source projects: [open targets](https://github.com/opentargets), [kubernetes](https://github.com/kubernetes/kubernetes), [luigi](https://github.com/spotify/luigi), [airflow](https://github.com/apache/incubator-airflow/pulls)
+Prototyping - Arduino,Fusion 360, etc.
+
+UI Desgin - Adbobe premiere, XD, Illustrator, AfterEffect
+
 
 ## Work
 
