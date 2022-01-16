@@ -1,11 +1,10 @@
 ---
 layout: cv
-title: Eliseo Papa - Resume
+title: Junichi Shimizu - Resume
 ---
-# Eliseo Papa
+# Junichi Shimizu
 
-Director of AI engineering working on AI applied to Drug Discovery.
-Background in biomedical engineering, data science and clinical medicine.
+Interaction Researcher/Sound Artist exploring technology for making creative modality of self-expression.
 
 <div id="webaddress">
 <script type="text/javascript">
@@ -27,10 +26,11 @@ while(x=eval(x));
 //-->
 //]]> </script>
 
-| <a href="http://elipapa.github.io">elipapa.github.io</a>
-| <a href="http://uk.linkedin.com/in/eliseopapa">LinkedIn</a>
-| <a href="http://github.com/elipapa">GitHub</a>
-| <a href="https://medium.com/@elipapa">Medium</a>
+| <a href="https://junichishmz.com/">Web Site</a>
+| <a href="mailto:Junichi.Shimizu@sony.com">Junichi.Shimizu@sony.com</a>
+| <a href="https://www.linkedin.com/in/junichishmz/">LinkedIn</a>
+| <a href="https://soundcloud.com/imish-music">soundcloud</a>
+| <a href="https://www.instagram.com/imish_music/">Instagram</a>
 </div>
 
 <!-- notable accomplishments - ie. projects completed
