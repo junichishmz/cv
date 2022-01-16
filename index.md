@@ -72,36 +72,30 @@ Stanford University, Design Program ” Joint Project-Based Global Learning ”
 Juyoung Lee, Hui-Shyong Yeo, Murtaza Dhuliawala, Jedidiah Akano **Junichi Shimizu**, Thad Starner,Aaron Quigley,Woontack Woo, Kai Kunze. / DOI 3123021.3123060
 ISWC ‘17 Proceedings of the 2017 ACM International Symposium on Wearable Computers
 
-
 2. [Eyewear to Make Me Smile: Can Electric Muscle Stimulation increase Happiness?](https://dl.acm.org/doi/10.1145/3024969.3025097)
 
 Lai Yen-Chin, YuanLing Feng, **Junichi Shimizu**, Kai Kunze, Takuro Nakao. / DOI 3024969.3025097
 TEI ‘17 Proceedings of the Tenth International Conference on Tangible, Embedded, and Embodied Interaction
-
 
 3. [Smooth eye movement interaction using EOG glasses](https://dl.acm.org/doi/10.1145/2993148.2993181)
 
 Murtaza Dhuliawala, Juyoung Lee, **Junichi Shimizu**, Andreas Bulling, Kai Kunze, Thad Starner, Woontack Woo. / DOI 2993148.2993181
 ICMI 2016 Proceedings of the 18th ACM International Conference on Multimodal Interaction Pages 307-311
 
-
 4. [Eye movement interactions in google cardboard using a low cost EOG setup](https://dl.acm.org/doi/10.1145/2968219.2968274)
 
 **Junichi Shimizu**, George Chernyshov. / DOI 2968219.2968274
 September 2016 UbiComp ‘16: Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing
-
 
 5. [Solar system: smooth pursuit interactions using EOG glasses](https://dl.acm.org/doi/10.1145/2968219.2971376)
 
 **Junichi Shimizu**, Juyoung Lee, Murtaza Dhuliawala, Andreas Bulling, Thad Starner, Woontack Woo, Kai Kunze. / DOI 2968219.2971376
 September 2016 UbiComp ‘16: Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing
 
-
 6. [Eye blink as an input modality for a responsive adaptable video system](https://dl.acm.org/doi/10.1145/2968219.2971449)
 
 Benjamin Tag, **Junichi Shimizu**, Chi Zhang, Naohisa Ohta, Kai Kunze, Kazunori Sugiura. / DOI 2968219.2971449
 September 2016 UbiComp ‘16: Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing
-
 
 7. [In the Eye of the Beholder: The Impact of Frame Rate on Human Eye Blink](https://dl.acm.org/doi/10.1145/2851581.2892449)
 
@@ -112,7 +106,7 @@ May 2016 CHI EA ‘16: Proceedings of the 2016 CHI Conference Extended Abstracts
 
 
 ## Patent
-[INFORMATION PROCESSING APPARATUS, INFORMATION PROCESSING METHOD, AND PROGRAM](https://patents.justia.com/patent/20220004250)
+1. [INFORMATION PROCESSING APPARATUS, INFORMATION PROCESSING METHOD, AND PROGRAM](https://patents.justia.com/patent/20220004250)
 
 Publication number: 20220004250
 
@@ -129,7 +123,7 @@ Applicant: SONY GROUP CORPORATION
 Inventors: Ryouhei YASUDA, Tsuyoshi ISHIKAWA, Takayoshi SHIMIZU, Kei TAKAHASHI, **Junichi SHIMIZU**
 
 
-[INFORMATION PROCESSING APPARATUS, INFORMATION PROCESSING METHOD, AND RECORDING MEDIUM](https://patents.justia.com/patent/20210366450)
+2. [INFORMATION PROCESSING APPARATUS, INFORMATION PROCESSING METHOD, AND RECORDING MEDIUM](https://patents.justia.com/patent/20210366450)
 
 Publication number: 20210366450
 
@@ -146,7 +140,7 @@ Applicant: SONY CORPORATION
 Inventors: Kei TAKAHASHI, **Junichi SHIMIZU**
 
 
-[INFORMATION PROCESSING DEVICE, INFORMATION PROCESSING METHOD, AND PROGRAM](https://patents.justia.com/patent/20210303439)
+3. [INFORMATION PROCESSING DEVICE, INFORMATION PROCESSING METHOD, AND PROGRAM](https://patents.justia.com/patent/20210303439)
 
 Publication number: 20210303439
 
