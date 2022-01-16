@@ -1,103 +1,93 @@
 ---
 layout: cv
-title: Curriculum Vitae
+title: Isaac Newtons's CV
 ---
-
-# Antoine Caillon
-
-PhD student in deep generative modelling applied to musical signals.
+# Isaac Newton
+Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="mailto:caillon@ircam.fr">caillon@ircam.fr</a>
-| <a href="https://github.com/caillonantoine">github page</a>
-| <a href="https://caillonantoine.github.io">website</a>
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
+
+# this is test
+
 
 ## Currently
 
-PhD student at [ircam](ircam.fr) (paris)
+Standing on the shoulders of giants
 
-### PhD Subject
+### Specialized in
 
-Hierachical temporal learning for multi-instrument and orchestral audio synthesis
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
 
 ### Research interests
 
-Neural audio synthesis, real-time implementation of deep generative models, artistic use of artificial intelligence
+Cooling, power series, optics, alchemy, planetary motions, apples.
+
 
 ## Education
 
-`2020-now`
-**PhD: Hierachical temporal learning for multi-instrument and orchestral audio synthesis**
+`1654-1660`
+__The King's School, Grantham.__
 
-- ircam (paris)
-- [Actor project](https://www.actorproject.org/)
+`June 1661 - now`
+__Trinity College, Cambridge__
 
-`2018-2019`
-**Master Degree 2 ATIAM**
+- Sizar
 
-- ircam (paris)
-- Obtained with **High Honours**
-- Signal filtering, source separation, machine learning, Reactive programming, modelisation and synthesis of different instruments
+`1667 - death`
+__Trinity College, Cambridge__
 
-`2017-2018`
-**Master Degree 1 Engineering Sciences**
+- Fellow
 
-- Sorbonne Université (Paris IV)
-- Signal processing, acoustic, mecanic, numeric methods (finite element method, finite difference method)
 
-`2015-2017`
-**Mathematic degree**
 
-- Sorbonne Université (Paris IV)
+## Awards
 
-`2012-2014`
-**Sound engineering degree**
+`2012`
+President, *Royal Society*, London, UK
 
-- ITEMM, Le Mans
+Associate, *French Academy of Science*, Paris, France
+
+
 
 ## Publications
 
-`2021`
-[**RAVE: A variational autoencoder for fast and high-quality neural audio synthesis**](https://arxiv.org/abs/2111.05011)
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-- **Antoine Caillon**, Philippe Esling
-- Preprint
+### Journals
 
-`2020`
-[**Timbre latent space: exploration and creative aspects**](https://arxiv.org/abs/2008.01370)
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-- **Antoine Caillon**, Adrien Bitton, Brice Gatinet, Philippe Esling
-- TIMBRE 2020
+`1669`
+Lectiones opticæ.
 
-`2020`
-[**Diet deep generative audio models with structured lottery**](https://arxiv.org/abs/2007.16170)
+etc. etc. etc.
 
-- Philippe Esling, Ninon Devis, Adrien Bitton, **Antoine Caillon**, Axel Chemla–Romeu-Santos, Constance Douwes
-- DaFX 2020
+### Patents
 
-`2019`
-[**Assisted Sound Sample Generation with Musical Conditioning in Adversarial Auto-Encoders**](https://arxiv.org/abs/1904.06215)
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
-- Adrien Bitton, Philippe Esling, **Antoine Caillon**, Martin Fouilleul
-- DaFX 2019
 
-## Collaborations
+## Occupation
 
-`2021`
-**work in progress**
+`1600`
+__Royal Mint__, London
 
-- [Maxime Mantovani](https://www.maximemantovani.com/)
-- Latent exploration with custom controllers and prior matching techniques
+- Warden
+- Minted coins
 
-`2019-2020`
-**Convergence**
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
 
-- [Alexander Schubert](https://www.alexanderschubert.net/), in collaboration with **Antoine Caillon**, Philippe Esling and Jorge Davila-Chacon
-- Awarded with a Golden Nica (Ars Electronica 2020) in Digital arts ([see here](https://calls.ars.electronica.art/prix/winners/7320/))
 
-`2019-2020`
-**unknown title**
 
-- [Brice Gatinet](https://www.ircam.fr/person/brice-gatinet/), in collaboration with **Antoine Caillon**
-- Creation of _wavae_, initial work on real-time use of deep learning models
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+
