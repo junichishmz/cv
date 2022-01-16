@@ -58,6 +58,7 @@ UI Desgin - Adbobe premiere, XD, Illustrator, AfterEffect
 
 `2015-2017`
 Master Degree at Keio University Graduate School of Media Design.
+
 `2011-2015`
 B.S. in Electrical Engineering, Tokyo University of Science
 
