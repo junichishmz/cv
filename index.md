@@ -109,3 +109,57 @@ September 2016 UbiComp ‘16: Proceedings of the 2016 ACM International Joint Co
 Benjamin Tag, **Junichi Shimizu**, Chi Zhang, Kai Kunze, Naohisa Ohta, Kazunori Sugiura. / DOI 2851581.2892449
 May 2016 CHI EA ‘16: Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems
 
+
+
+
+## Patent
+
+[INFORMATION PROCESSING APPARATUS, INFORMATION PROCESSING METHOD, AND PROGRAM](https://patents.justia.com/patent/20220004250)
+
+Publication number: 20220004250
+
+Abstract: An information processing apparatus according to an embodiment of the present technology includes a display control section. The display control section performs, when a display size of a plurality of virtual objects is changed, a notification regarding switching of a change mode of the display size of a specific virtual object among the plurality of virtual objects on the basis of display size change information set for the specific virtual object. This makes it possible to exhibit a high degree of usability to display the virtual objects.
+
+Type: Application
+
+Filed: September 20, 2019
+
+Publication date: January 6, 2022
+
+Applicant: SONY GROUP CORPORATION
+
+Inventors: Ryouhei YASUDA, Tsuyoshi ISHIKAWA, Takayoshi SHIMIZU, Kei TAKAHASHI, **Junichi SHIMIZU**
+
+
+[INFORMATION PROCESSING APPARATUS, INFORMATION PROCESSING METHOD, AND RECORDING MEDIUM](https://patents.justia.com/patent/20210366450)
+
+Publication number: 20210366450
+
+Abstract: A mechanism that enables the real-time provision of content according to a user's body movement is provided. An information processing apparatus includes a reproduction control unit (43) that controls reproduction of content on the basis of a result of prediction of a timing of a predetermined state in traveling movement of a user, which is predicted on the basis of sensor information regarding the traveling movement.
+
+Type: Application
+
+Filed: September 5, 2019
+
+Publication date: November 25, 2021
+
+Applicant: SONY CORPORATION
+
+Inventors: Kei TAKAHASHI, **Junichi SHIMIZU**
+
+
+[INFORMATION PROCESSING DEVICE, INFORMATION PROCESSING METHOD, AND PROGRAM](https://patents.justia.com/patent/20210303439)
+
+Publication number: 20210303439
+
+Abstract: Erroneous ignitions of a process of a device caused by characteristics of speeches/behaviors of a user are efficiently prevented. Provided is an information processing device having: a notification control unit configured to notify a user of information about a candidate speech/behavior estimated to be suitable as a trigger for executing a predetermined process among a plurality of speeches/behaviors extractable from a behavior log of the user, wherein the notification control unit further notifies the user of an inquiry whether or not execution of the candidate speech/behavior estimated from the behavior log is to be applied as the trigger, and the candidate speech/behavior is estimated based on a number of times by which the speech/behavior is extracted from the behavior log.
+
+Type: Application
+
+Filed: August 10, 2018
+
+Publication date: September 30, 2021
+
+Applicant: Sony Corporation
+
+Inventors: Hideo NAGASAKA, Kei TAKAHASHI, **Junichi SHIMIZU**
