@@ -36,7 +36,7 @@ User Interface Developer at Sony Computer Science Laboratories. [Music Team at T
 
 `2018-2019`
 - [Milan Design Award Best Playfulness 2018](https://archivio.fuorisalone.it/2018/it/percorso/13/milano-design-award) : take in charge of a part of interaction design
-  - Red Dot: Luminary 2019 – [Hidden Senses](https://www.youtube.com/watch?v=DziZamGvqzw) nominated for top accolade in the Red Dot Award
+- Red Dot: Luminary 2019 – [Hidden Senses](https://www.youtube.com/watch?v=DziZamGvqzw) nominated for top accolade in the Red Dot Award
 - Won [YouFab Global Creative Award 2018 special prize](https://www.youfab.info/2018/winners/hack-the-natural-objects?lang=ja)
 - Exhibited at [TSUKUBA SCIENCE ART EXHIBITION](https://www.youtube.com/watch?v=5LXhRhczAdc)
 - Adopted [100BANCH GARAGE program](https://100banch.com/projects/19809/)
@@ -67,29 +67,36 @@ Stanford University, Design Program ” Joint Project-Based Global Learning ”
 
 
 ## Publication
+
 1. [Itchy nose: discreet gesture interaction using EOG sensors in smart eyewear](https://dl.acm.org/doi/10.1145/3123021.3123060)
 Juyoung Lee, Hui-Shyong Yeo, Murtaza Dhuliawala, Jedidiah Akano **Junichi Shimizu**, Thad Starner,Aaron Quigley,Woontack Woo, Kai Kunze. / DOI 3123021.3123060
 ISWC ‘17 Proceedings of the 2017 ACM International Symposium on Wearable Computers
+
 
 2. [Eyewear to Make Me Smile: Can Electric Muscle Stimulation increase Happiness?](https://dl.acm.org/doi/10.1145/3024969.3025097)
 Lai Yen-Chin, YuanLing Feng, **Junichi Shimizu**, Kai Kunze, Takuro Nakao. / DOI 3024969.3025097
 TEI ‘17 Proceedings of the Tenth International Conference on Tangible, Embedded, and Embodied Interaction
 
+
 3. [Smooth eye movement interaction using EOG glasses](https://dl.acm.org/doi/10.1145/2993148.2993181)
 Murtaza Dhuliawala, Juyoung Lee, **Junichi Shimizu**, Andreas Bulling, Kai Kunze, Thad Starner, Woontack Woo. / DOI 2993148.2993181
 ICMI 2016 Proceedings of the 18th ACM International Conference on Multimodal Interaction Pages 307-311
+
 
 4. [Eye movement interactions in google cardboard using a low cost EOG setup](https://dl.acm.org/doi/10.1145/2968219.2968274)
 **Junichi Shimizu**, George Chernyshov. / DOI 2968219.2968274
 September 2016 UbiComp ‘16: Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing
 
+
 5. [Solar system: smooth pursuit interactions using EOG glasses](https://dl.acm.org/doi/10.1145/2968219.2971376)
 **Junichi Shimizu**, Juyoung Lee, Murtaza Dhuliawala, Andreas Bulling, Thad Starner, Woontack Woo, Kai Kunze. / DOI 2968219.2971376
 September 2016 UbiComp ‘16: Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing
 
+
 6. [Eye blink as an input modality for a responsive adaptable video system](https://dl.acm.org/doi/10.1145/2968219.2971449)
 Benjamin Tag, **Junichi Shimizu**, Chi Zhang, Naohisa Ohta, Kai Kunze, Kazunori Sugiura. / DOI 2968219.2971449
 September 2016 UbiComp ‘16: Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+
 
 7. [In the Eye of the Beholder: The Impact of Frame Rate on Human Eye Blink](https://dl.acm.org/doi/10.1145/2851581.2892449)
 Benjamin Tag, **Junichi Shimizu**, Chi Zhang, Kai Kunze, Naohisa Ohta, Kazunori Sugiura. / DOI 2851581.2892449
