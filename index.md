@@ -21,7 +21,7 @@ Interaction Research at [SONY Group](https://www.sony.com/en/SonyInfo/research/r
 User Interface Developer at Sony Computer Science Laboratories. [Music Team at Tokyo](https://www.flow-machines.com/)
 
 
-### Research theme
+## Research theme
 
 - Gesture recognition development (5 years)
   - Developing Headphone Gesture Interface
@@ -61,7 +61,7 @@ Master Degree at Keio University Graduate School of Media Design.
 `2011-2015`
 B.S. in Electrical Engineering, Tokyo University of Science
 
-### STUDY ABROAD
+## STUDY ABROAD
 Stanford University, Design Program ” Joint Project-Based Global Learning ”
 
 
