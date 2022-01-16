@@ -67,7 +67,6 @@ Stanford University, Design Program ” Joint Project-Based Global Learning ”
 
 
 ## Publication
-
 1. [Itchy nose: discreet gesture interaction using EOG sensors in smart eyewear](https://dl.acm.org/doi/10.1145/3123021.3123060)
 
 Juyoung Lee, Hui-Shyong Yeo, Murtaza Dhuliawala, Jedidiah Akano **Junichi Shimizu**, Thad Starner,Aaron Quigley,Woontack Woo, Kai Kunze. / DOI 3123021.3123060
@@ -113,7 +112,6 @@ May 2016 CHI EA ‘16: Proceedings of the 2016 CHI Conference Extended Abstracts
 
 
 ## Patent
-
 [INFORMATION PROCESSING APPARATUS, INFORMATION PROCESSING METHOD, AND PROGRAM](https://patents.justia.com/patent/20220004250)
 
 Publication number: 20220004250
