@@ -15,10 +15,10 @@ Interaction Researcher. Designing Interactive/Generative Music Experience.
 ## WORK
 
 `2017 - now`
-Interaction Research at [SONY Group](https://www.sony.com/en/SonyInfo/research/research-areas/human_interaction/) (Human Interaction Team)
+Interaction Research at **[SONY Group](https://www.sony.com/en/SonyInfo/research/research-areas/human_interaction/)** (Human Interaction Team)
 
 `2021 - now`
-User Interface Developer at Sony Computer Science Laboratories. [Music Team at Tokyo](https://www.flow-machines.com/)
+User Interface Developer at Sony Computer Science Laboratories. **[Music Team at Tokyo](https://www.flow-machines.com/)**
 
 
 ## Research theme
@@ -35,12 +35,12 @@ User Interface Developer at Sony Computer Science Laboratories. [Music Team at T
 - Received “Most Creative Interface Honorable Mention” at UIST 2016 Student Innovation Competition
 
 `2018-2019`
-- [Milan Design Award Best Playfulness 2018](https://archivio.fuorisalone.it/2018/it/percorso/13/milano-design-award) : take in charge of a part of interaction design
-- Red Dot: Luminary 2019 – [Hidden Senses](https://www.youtube.com/watch?v=DziZamGvqzw) nominated for top accolade in the Red Dot Award
-- Won [YouFab Global Creative Award 2018 special prize](https://www.youfab.info/2018/winners/hack-the-natural-objects?lang=ja)
-- Exhibited at [TSUKUBA SCIENCE ART EXHIBITION](https://www.youtube.com/watch?v=5LXhRhczAdc)
-- Adopted [100BANCH GARAGE program](https://100banch.com/projects/19809/)
-- Appeared in [MUTEK.JP](https://tokyo.mutek.org/en/past-editions/edition-2019) AI Music Lab as [GADARA](http://gadara.io/)(Interaction Design Unit)
+- **[Milan Design Award Best Playfulness 2018](https://archivio.fuorisalone.it/2018/it/percorso/13/milano-design-award)** : take in charge of a part of interaction design
+- Red Dot: Luminary 2019 – **[Hidden Senses](https://www.youtube.com/watch?v=DziZamGvqzw)** nominated for top accolade in the Red Dot Award
+- Won **[YouFab Global Creative Award 2018 special prize](https://www.youfab.info/2018/winners/hack-the-natural-objects?lang=ja)**
+- Exhibited at **[TSUKUBA SCIENCE ART EXHIBITION](https://www.youtube.com/watch?v=5LXhRhczAdc)**
+- Adopted **[100BANCH GARAGE program](https://100banch.com/projects/19809/)**
+- Appeared in **[MUTEK.JP](https://tokyo.mutek.org/en/past-editions/edition-2019)** AI Music Lab as **[GADARA](http://gadara.io/)**(Interaction Design Unit)
 
 
 
