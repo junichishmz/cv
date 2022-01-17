@@ -37,7 +37,7 @@ User Interface Developer at Sony Computer Science Laboratories. **[Music Team at
 `2018-2019`
 - **[Milan Design Award Best Playfulness 2018](https://archivio.fuorisalone.it/2018/it/percorso/13/milano-design-award)** : take in charge of a part of interaction design
 - Red Dot: Luminary 2019 – **[Hidden Senses](https://www.youtube.com/watch?v=DziZamGvqzw)** nominated for top accolade in the Red Dot Award
-- Appeared in **[MUTEK.JP](https://tokyo.mutek.org/en/past-editions/edition-2019)** AI Music Lab as **[GADARA](https://gadara.io/)
+- Appeared in **[MUTEK.JP](https://tokyo.mutek.org/en/past-editions/edition-2019)** AI Music Lab as **[GADARA](https://gadara.io/)**
 
 
 
