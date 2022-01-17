@@ -41,7 +41,7 @@ User Interface Developer at Sony Computer Science Laboratories. **[Music Team at
 - Won **[YouFab Global Creative Award 2018 special prize](https://www.youfab.info/2018/winners/hack-the-natural-objects?lang=ja)**
 - Exhibited at **[TSUKUBA SCIENCE ART EXHIBITION](https://www.youtube.com/watch?v=5LXhRhczAdc)**
 - Adopted **[100BANCH GARAGE program](https://100banch.com/projects/19809/)**
-- Appeared in **[MUTEK.JP](https://tokyo.mutek.org/en/past-editions/edition-2019)** AI Music Lab as 
+- Appeared in **[MUTEK.JP](https://tokyo.mutek.org/en/past-editions/edition-2019)** AI Music Lab 
 
 
 
