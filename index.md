@@ -38,7 +38,7 @@ User Interface Developer at Sony Computer Science Laboratories. **[Music Team at
 - **[Milan Design Award Best Playfulness 2018](https://archivio.fuorisalone.it/2018/it/percorso/13/milano-design-award)** : take in charge of a part of interaction design
 - Red Dot: Luminary 2019 – **[Hidden Senses](https://www.youtube.com/watch?v=DziZamGvqzw)** nominated for top accolade in the Red Dot Award
 
-## Art supported by **[GADARA](http://gadara.io/)**
+## Art supported by **[GADARA.Interaction Design Unit](http://gadara.io/)**
 
 - Won **[YouFab Global Creative Award 2018 special prize](https://www.youfab.info/2018/winners/hack-the-natural-objects?lang=ja)**
 - Exhibited at **[TSUKUBA SCIENCE ART EXHIBITION](https://www.youtube.com/watch?v=5LXhRhczAdc)**
