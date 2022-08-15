@@ -7,7 +7,7 @@ title: Junichi Shimizu - Resume
 Interaction Researcher. Designing Interactive/Generative Music Experience.
 
 <div id="webaddress">
-| <a href="[https://junichishmz.com/](https://junshmz.com/)">Web Site</a>
+| <a href="https://junshmz.com/">Web Site</a>
 | <a href="https://www.linkedin.com/in/junichishmz/">LinkdIn</a>
 </div>
 
