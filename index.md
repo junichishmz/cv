@@ -7,18 +7,20 @@ title: Junichi Shimizu - Resume
 Interaction Researcher. Designing Interactive/Generative Music Experience.
 
 <div id="webaddress">
-| <a href="https://junshmz.com/">Web Site</a>
+| <a href="https://junshmz.com/](https://junichi.io/">Web Site</a>
 | <a href="https://www.linkedin.com/in/junichishmz/">LinkdIn</a>
 </div>
 
 
 ## WORK
-
-`2017 - now`
-Interaction Research at **[SONY Group](https://www.sony.com/en/SonyInfo/research/research-areas/human_interaction/)** (Human Interaction Team)
+2022.09 - now`
+Visiting Researcher. **[UAL Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)**
 
 `2021 - now`
 User Interface Developer at Sony Computer Science Laboratories. **[Music Team at Tokyo](https://www.flow-machines.com/)**
+
+`2017 - now`
+Interaction Research at **[SONY Group](https://www.sony.com/en/SonyInfo/research/research-areas/human_interaction/)** (Human Interaction Team)
 
 
 ## Research theme
