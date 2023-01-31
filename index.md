@@ -13,7 +13,7 @@ Interaction Researcher. Designing Interactive/Generative Music Experience.
 
 
 ## WORK
-2022.09 - now`
+`2022.09 - now`
 Visiting Researcher. **[UAL Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)**
 
 `2021 - now`
@@ -66,6 +66,10 @@ Stanford University, Design Program ” Joint Project-Based Global Learning ”
 
 
 ## Publication
+**[GANStrument: Adversarial Instrument Sound Synthesis with Pitch-invariant Instance Conditioning](https://arxiv.org/abs/2211.05385)
+- Gaku Narita, Junichi Shimizu, and Taketo Akama (Sony Computer Science Laboratories, Tokyo, Japan)
+
+
 **[Itchy nose: discreet gesture interaction using EOG sensors in smart eyewear](https://dl.acm.org/doi/10.1145/3123021.3123060)**
 - Juyoung Lee, Hui-Shyong Yeo, Murtaza Dhuliawala, Jedidiah Akano **Junichi Shimizu**, Thad Starner,Aaron Quigley,Woontack Woo, Kai Kunze. 
 - ISWC ‘17 Proceedings of the 2017 ACM International Symposium on Wearable Computers
