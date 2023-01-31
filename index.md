@@ -66,7 +66,7 @@ Stanford University, Design Program ” Joint Project-Based Global Learning ”
 
 
 ## Publication
-**[GANStrument: Adversarial Instrument Sound Synthesis with Pitch-invariant Instance Conditioning](https://arxiv.org/abs/2211.05385)
+**[GANStrument: Adversarial Instrument Sound Synthesis with Pitch-invariant Instance Conditioning](https://arxiv.org/abs/2211.05385)**
 - Gaku Narita, Junichi Shimizu, and Taketo Akama (Sony Computer Science Laboratories, Tokyo, Japan)
 
 
