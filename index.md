@@ -25,10 +25,10 @@ Interaction Research at **[SONY Group](https://www.sony.com/en/SonyInfo/research
 
 ## Research theme
 
-- Gesture recognition development (5 years)
-  - Developing Headphone Gesture Interface
-- Sound / Music interaction design (3 years)
-- Material/Physical Interaction research group(3 years)
+- **Gesture recognition development (5 years)**
+- Developing Headphone Gesture Interface
+- **Sound / Music interaction design (3 years)**
+- **Material/Physical Interaction research group(3 years)**
 
 
 ## Award Activity
